@@ -1,0 +1,14 @@
+C:\workspace\C#\CourseIO\CourseIO\bin\Debug\net8.0\CourseIO.exe
+C:\workspace\C#\CourseIO\CourseIO\bin\Debug\net8.0\CourseIO.deps.json
+C:\workspace\C#\CourseIO\CourseIO\bin\Debug\net8.0\CourseIO.runtimeconfig.json
+C:\workspace\C#\CourseIO\CourseIO\bin\Debug\net8.0\CourseIO.dll
+C:\workspace\C#\CourseIO\CourseIO\bin\Debug\net8.0\CourseIO.pdb
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.AssemblyInfoInputs.cache
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.AssemblyInfo.cs
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.csproj.CoreCompileInputs.cache
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.dll
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\refint\CourseIO.dll
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.pdb
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\CourseIO.genruntimeconfig.cache
+C:\workspace\C#\CourseIO\CourseIO\obj\Debug\net8.0\ref\CourseIO.dll
